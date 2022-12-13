@@ -4,7 +4,7 @@ This is my home page! My name is Thomas Mihalich and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is [thomasmihalich]http://github.com/thomasmihalich.
+My GitHub page is [thomasmihalich](http://github.com/thomasmihalich).
 
 ### CPSC 120
 
